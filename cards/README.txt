@@ -1,0 +1,1 @@
+Place your existing card images into this folder!
